@@ -1,0 +1,21 @@
+{
+  "name": "Happy Birthday Wardy!",
+  "short_name": "Wardy Bday",
+  "description": "A dreamy birthday app made with love for Wardy 🥳💕",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffe3f6",
+  "theme_color": "#ffb6e1",
+  "icons": [
+    {
+      "src": "https://em-content.zobj.net/source/apple/354/birthday-cake_1f382.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://em-content.zobj.net/source/apple/354/birthday-cake_1f382.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
